@@ -12,7 +12,6 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn import tree
 
 
-
 # Descomprime el modelo
 zip_path = './model.pkl.zip'
 # Directorio donde descomprimirás los archivos
